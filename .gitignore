@@ -1,5 +1,10 @@
 .vs
 .vscode
+x64/
+Debug/
+Release/
 *.exe
 *.sln
 *.filters
+*.user
+*.vcxproj
