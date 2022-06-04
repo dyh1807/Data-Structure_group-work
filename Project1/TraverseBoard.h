@@ -22,6 +22,10 @@
  *  the function to used in the project
  *
  */
+
+/*start: provide prompt message*/
+void start();
+
 /*TODO: Add the input dfs: used to traverse the board*/
 void dfs();
 
