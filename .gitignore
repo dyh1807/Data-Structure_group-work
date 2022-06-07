@@ -8,3 +8,4 @@ Release/
 *.filters
 *.user
 *.vcxproj
+simple_test.cpp
